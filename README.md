@@ -80,11 +80,6 @@ A small interactive frontend project created using emoji-based mood/activity tra
 HTML, CSS
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 🔥 GitHub Streak
 
