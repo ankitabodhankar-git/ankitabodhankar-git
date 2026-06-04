@@ -81,11 +81,6 @@ HTML, CSS
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankitabodhankar-git\&theme=tokyonight\&hide_border=true)
----
-
 ## 🌱 Currently Exploring
 
 * Cloud Fundamentals
