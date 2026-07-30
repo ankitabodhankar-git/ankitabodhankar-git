@@ -11,7 +11,7 @@ Passionate about developing modern web applications, solving real-world problems
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ankitabodhankar08@gmail.com">
+<a href="mailto:ankitabodhankar90@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -21,7 +21,7 @@ Passionate about developing modern web applications, solving real-world problems
 # 👩‍💻 About Me
 
 - 💻 Software Developer passionate about building modern web applications
-- 🌱 Currently learning **React, AWS Cloud, REST APIs, and AI-assisted development**
+- 🌱 Currently learning **AWS Cloud, REST APIs, AI-assisted development**
 - 🚀 Interested in Full-Stack Development and Cloud Technologies
 - 🤝 Open to Software Developer and Full-Stack Developer opportunities
 - 📚 I enjoy turning ideas into practical software solutions
@@ -39,14 +39,12 @@ Passionate about developing modern web applications, solving real-world problems
 
 ### Frameworks & Technologies
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Database & Cloud
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
@@ -102,39 +100,9 @@ Python • Flask • HTML • CSS • Bootstrap • SQLite
 
 # 🌱 Currently Learning
 
-- React
 - AWS Cloud
 - REST APIs
 - AI-assisted Software Development
-- Full-Stack Development
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitabodhankar-git&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:ankitabodhankar08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankita-bodhankar-114b12396">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
