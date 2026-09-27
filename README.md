@@ -25,13 +25,15 @@ I’m particularly interested in understanding **how applications are built, sec
 
 ### 🛡️ Personal AI Journal
 
-An authenticated AI journaling application designed around secure multi-turn conversations and isolated user data.
+A secure AI-powered personal journaling application built with Google Gemini, Firebase Authentication, and Cloud Firestore.
 
-**Built with:** Firebase Authentication · Firestore · Gemini API · Google Cloud Run · Google Cloud Secret Manager
+The application supports **private multi-turn conversations, persistent journal history, automatic summaries, and personalized reflection intelligence**.
+
+**Built with:** Firebase Authentication · Cloud Firestore · Gemini API · Google Cloud Run · Google Cloud Secret Manager
 
 **Focus:** AI interaction, authentication, per-user data isolation, secure secret management, multi-turn conversations and cloud deployment.
 
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/ankitabodhankar-git/personal-gemini-journal)
 
 ---
 
@@ -52,29 +54,49 @@ A hands-on cloud computing internship project series covering AWS infrastructure
 
 ## 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
-`Python` `JavaScript` `TypeScript` `PHP` `SQL` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html,css" />
+</p>
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
-`AWS` `EC2` `Lambda` `CloudWatch` `IAM` `Google Cloud` `Cloud Run` `Firebase` `Firestore`
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+</p>
 
-### AI
+**AWS:** EC2 · Lambda · IAM · CloudWatch
+**Google Cloud:** Cloud Run
+**Firebase:** Authentication · Firestore
 
-`Generative AI` `Gemini API` `Google AI Studio`
+### 🤖 AI
 
-### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=google" />
+</p>
 
-`MySQL` `SQLite` `Firestore`
+**Generative AI · Gemini API · Google AI Studio**
 
-### Web & Backend
+### 🗄️ Databases
 
-`Flask` `REST APIs` `Bootstrap`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
 
-### Tools
+### ⚙️ Web & Backend
 
-`Git` `GitHub` `Linux` `VS Code`
+<p>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,nextjs" />
+</p>
+
+**REST APIs · Backend Development**
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -106,6 +128,16 @@ Currently open to **entry-level Software Development, Backend, Cloud, and AI opp
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankita-bodhankar-114b12396/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ankitabodhankar90@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
+  </a>
+</p>
 
-📧 [Email](mailto:ankitabodhankar90@gmail.com)
+<p align="center">
+  <b>Open to opportunities, collaboration, and building useful software.</b>
+</p>
