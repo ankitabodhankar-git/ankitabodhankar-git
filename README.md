@@ -1,115 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ankita Bodhankar</h1>
+# Hi, I'm Ankita Bodhankar 👋
 
-<h3 align="center">Software Developer | Building Practical & AI-Powered Web Applications</h3>
+### Software Developer | AI & Cloud | BBA-CA Graduate
 
-<p align="center">
-Passionate about developing modern web applications, solving real-world problems, and continuously learning new technologies.
-</p>
+I’m a **Junior Software Developer** building practical applications across **software development, cloud computing, backend systems, and Generative AI**.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ankita-bodhankar-114b12396">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+My experience comes primarily from hands-on projects, internships, and technical learning programs — where I’ve built applications, worked with cloud services, handled authentication and databases, deployed workloads, and debugged real implementation issues.
 
-<a href="mailto:ankitabodhankar90@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I’m particularly interested in understanding **how applications are built, secured, deployed, and improved beyond simply making them work.**
 
 ---
 
-# 👩‍💻 About Me
+## 🚀 What I Build
 
-- 💻 Software Developer passionate about building modern web applications
-- 🌱 Currently learning **AWS Cloud, REST APIs, AI-assisted development**
-- 🚀 Interested in Full-Stack Development and Cloud Technologies
-- 🤝 Open to Software Developer and Full-Stack Developer opportunities
-- 📚 I enjoy turning ideas into practical software solutions
+* 🌐 Web applications and database-driven systems
+* ☁️ Cloud-based applications and infrastructure
+* 🤖 AI-powered applications using Generative AI APIs
+* 🔐 Authenticated and security-focused applications
+* ⚙️ Backend logic, APIs and serverless solutions
+* 🗄️ Applications involving databases and persistent data
 
 ---
 
-# 🛠 Tech Stack
+## 🔥 Featured Projects
+
+### 🛡️ Personal AI Journal
+
+An authenticated AI journaling application designed around secure multi-turn conversations and isolated user data.
+
+**Built with:** Firebase Authentication · Firestore · Gemini API · Google Cloud Run · Google Cloud Secret Manager
+
+**Focus:** AI interaction, authentication, per-user data isolation, secure secret management, multi-turn conversations and cloud deployment.
+
+🔗 [View Repository](YOUR_REPOSITORY_LINK)
+
+---
+
+### ☁️ DecodeLabs Cloud Computing Projects
+
+A hands-on cloud computing internship project series covering AWS infrastructure, Linux, web servers, databases and serverless computing.
+
+**Projects include:**
+
+* **The Global Launch** — cloud deployment fundamentals
+* **The Server Commander** — AWS EC2 + Nginx
+* **The Data Warehouse** — AWS database fundamentals
+* **The Serverless Logic** — AWS Lambda + Python
+
+🔗 [View Repository](https://github.com/ankitabodhankar-git/Decodelab_Internship)
+
+---
+
+## 🧰 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+`Python` `JavaScript` `TypeScript` `PHP` `SQL` `HTML` `CSS`
 
-### Frameworks & Technologies
+### Cloud & Infrastructure
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+`AWS` `EC2` `Lambda` `CloudWatch` `IAM` `Google Cloud` `Cloud Run` `Firebase` `Firestore`
 
-### Database & Cloud
+### AI
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+`Generative AI` `Gemini API` `Google AI Studio`
+
+### Databases
+
+`MySQL` `SQLite` `Firestore`
+
+### Web & Backend
+
+`Flask` `REST APIs` `Bootstrap`
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+`Git` `GitHub` `Linux` `VS Code`
 
 ---
 
-# 🚀 Featured Projects
+## 🎓 Education & Learning
 
-## 🌍 EarthWise Journey
+**Bachelor of Business Administration – Computer Applications (BBA-CA)**
 
-An AI-powered sustainability platform that encourages environmentally responsible habits through personalized recommendations, interactive insights, and modern web technologies.
+I’ve been strengthening my technical foundation through hands-on development projects, cloud computing work, internships, and AI-focused programs.
 
-**Highlights**
-
-- AI-powered recommendations
-- Interactive user experience
-- Sustainable habit tracking
-- Responsive modern interface
-
-**Tech Stack**
-
-Next.js • TypeScript • Firebase • Gemini AI • HTML • CSS • JavaScript
-
-🔗 Repository  
-https://github.com/ankitabodhankar-git/earthwise-journey
-
-🌐 Live Demo  
-https://earthwise-journey-gyj1.vercel.app/
+🏅 **Google Cloud Gen AI Academy APAC — Cohort 3**
 
 ---
 
-## 🎓 Student Academic Behavior Analysis System
+## 💡 My Approach
 
-A role-based academic management system designed to monitor student performance, analyze academic behavior, and provide centralized reporting for educational institutions.
+I learn by building.
 
-**Highlights**
+I build something, encounter problems, debug them, understand why they happened, and improve the implementation.
 
-- Student performance analytics
-- Role-based authentication
-- Academic reports
-- Responsive dashboard
-
-**Tech Stack**
-
-Python • Flask • HTML • CSS • Bootstrap • SQLite
+For me, a project isn't finished when it simply works — I want to understand **what is happening behind it and why it works.**
 
 ---
 
-# 🌱 Currently Learning
+## 📌 Open To
 
-- AWS Cloud
-- REST APIs
-- AI-assisted Software Development
+Currently open to **entry-level Software Development, Backend, Cloud, and AI opportunities** where I can contribute to real-world projects, learn from experienced engineers, and continue developing as a software professional.
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-### ⭐ Thank you for visiting my GitHub profile!
+💼 [LinkedIn](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)
 
-*Feel free to explore my repositories, connect with me, or reach out for collaboration and new opportunities.*
-
-</div>
+📧 [Email](mailto:ankitabodhankar90@gmail.com)
