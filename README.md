@@ -1,143 +1,129 @@
+\<div align="center">
+
 # Hi, I'm Ankita Bodhankar 👋
 
-### Software Developer | AI & Cloud | BBA-CA Graduate
+### Software Developer + AI | Agentic AI | Cloud Engineering
 
-I’m a **Junior Software Developer** building practical applications across **software development, cloud computing, backend systems, and Generative AI**.
+**Building practical AI applications, intelligent systems and cloud-powered solutions.**
 
-My experience comes primarily from hands-on projects, internships, and technical learning programs — where I’ve built applications, worked with cloud services, handled authentication and databases, deployed workloads, and debugged real implementation issues.
+\<p>   \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a> \</p>
 
-I’m particularly interested in understanding **how applications are built, secured, deployed, and improved beyond simply making them work.**
-
----
-
-## 🚀 What I Build
-
-* 🌐 Web applications and database-driven systems
-* ☁️ Cloud-based applications and infrastructure
-* 🤖 AI-powered applications using Generative AI APIs
-* 🔐 Authenticated and security-focused applications
-* ⚙️ Backend logic, APIs and serverless solutions
-* 🗄️ Applications involving databases and persistent data
+\</div>
 
 ---
 
-## 🔥 Featured Projects
+## 👩‍💻 About Me
 
-### 🛡️ Personal AI Journal
+I'm a software developer focused on building AI-powered applications and cloud-based systems.
 
-A secure AI-powered personal journaling application built with Google Gemini, Firebase Authentication, and Cloud Firestore.
+My work combines software development, Generative AI, agentic architectures, backend engineering and cloud technologies.
 
-The application supports **private multi-turn conversations, persistent journal history, automatic summaries, and personalized reflection intelligence**.
+I enjoy turning technical ideas into working applications, understanding system architecture, solving implementation challenges and improving how software behaves beyond the initial prototype.
 
-**Built with:** Firebase Authentication · Cloud Firestore · Gemini API · Google Cloud Run · Google Cloud Secret Manager
+### What I Do
 
-**Focus:** AI interaction, authentication, per-user data isolation, secure secret management, multi-turn conversations and cloud deployment.
-
-🔗 [View Repository](https://github.com/ankitabodhankar-git/personal-gemini-journal)
-
----
-
-### ☁️ DecodeLabs Cloud Computing Projects
-
-A hands-on cloud computing internship project series covering AWS infrastructure, Linux, web servers, databases and serverless computing.
-
-**Projects include:**
-
-* **The Global Launch** — cloud deployment fundamentals
-* **The Server Commander** — AWS EC2 + Nginx
-* **The Data Warehouse** — AWS database fundamentals
-* **The Serverless Logic** — AWS Lambda + Python
-
-🔗 [View Repository](https://github.com/ankitabodhankar-git/Decodelab_Internship)
+- 🔎 **RAG & Knowledge Systems:** Working towards reliable retrieval-based AI applications.
+- 🤖 **AI Engineering:** Building applications with LLMs, Gemini and Generative AI.
+- 🧠 **Agentic Systems:** Developing AI workflows, tool integrations and graph-powered solutions.
+- ☁️ **Cloud Engineering:** Building and deploying applications using AWS and Google Cloud.
+- ⚙️ **Backend Development:** APIs, databases, authentication and application logic.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Languages
+### 01. CivicLens AI — AI-Powered Civic Intelligence
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html,css" />
-</p>
+An AI-powered civic technology platform designed to transform citizen-reported problems into structured, actionable information for civic authorities.
 
-### ☁️ Cloud & Infrastructure
+**Key Features**
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
-</p>
+- AI-assisted civic issue classification and analysis.
+- Citizen reporting and issue tracking.
+- Role-based Citizen, Officer and Admin workspaces.
+- SLA Watch and advisory resolution timelines.
+- Historical issue search and recurring issue detection.
+- Civic trend analysis and resolution playbooks.
+- Administrative audit trails.
 
-**AWS:** EC2 · Lambda · IAM · CloudWatch
-**Google Cloud:** Cloud Run
-**Firebase:** Authentication · Firestore
+**Technology Stack**
 
-### 🤖 AI
+`React` `TypeScript` `Vite` `Express` `Firebase Authentication` `Cloud Firestore` `Gemini API`
 
-<p>
-<img src="https://skillicons.dev/icons?i=google" />
-</p>
-
-**Generative AI · Gemini API · Google AI Studio**
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-</p>
-
-### ⚙️ Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,nextjs" />
-</p>
-
-**REST APIs · Backend Development**
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+[**View Source Code →**](https://github.com/ankitabodhankar-git/civiclens-ai)
+[**Live Prototype →**](https://civiclens-ai-1.ai.studio/)
 
 ---
 
-## 🎓 Education & Learning
+### 02. ResiliNet AI — Graph-Powered Supply Chain Resilience
 
-**Bachelor of Business Administration – Computer Applications (BBA-CA)**
+A supply-chain resilience prototype developed for the WeMakeDevs × FalkorDB Graph Hacks hackathon.
 
-I’ve been strengthening my technical foundation through hands-on development projects, cloud computing work, internships, and AI-focused programs.
+The project explores how graph relationships can help identify supplier dependencies, trace disruptions and evaluate potential recovery options.
 
-🏅 **Google Cloud Gen AI Academy APAC — Cohort 3**
+**Key Features**
 
----
+- Graph-based supply-chain dependency modelling.
+- Supplier and component relationship analysis.
+- Disruption impact tracing.
+- Alternative supplier and recovery-option evaluation.
+- Explainable graph-based analysis.
 
-## 💡 My Approach
+**Technology Stack**
 
-I learn by building.
+`Python` `FalkorDB` `Cypher` `FastAPI` `Docker`
 
-I build something, encounter problems, debug them, understand why they happened, and improve the implementation.
-
-For me, a project isn't finished when it simply works — I want to understand **what is happening behind it and why it works.**
-
----
-
-## 📌 Open To
-
-Currently open to **entry-level Software Development, Backend, Cloud, and AI opportunities** where I can contribute to real-world projects, learn from experienced engineers, and continue developing as a software professional.
+[**View Source Code →**](https://github.com/ankitabodhankar-git/Resilinet-ai)
+[**Read Technical Article →**](https://medium.com/@ankitabodhankar90/resilinet-ai-exploring-graph-powered-supply-chain-resilience-with-falkordb-62528ebc8ff3)
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankita-bodhankar-114b12396/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ankitabodhankar90@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
-  </a>
-</p>
+| Category           | Technologies                                   |
+| ------------------ | ---------------------------------------------- |
+| Languages          | Python, JavaScript, TypeScript, SQL            |
+| AI & Generative AI | Gemini API, Google AI Studio, LLMs, Agentic AI |
+| AI Engineering     | RAG concepts, AI workflows, Prompt Engineering |
+| Cloud              | AWS, Google Cloud, Firebase                    |
+| Backend            | FastAPI, Express, REST APIs                    |
+| Databases          | MySQL, Cloud Firestore, FalkorDB               |
+| Frontend           | React, HTML, CSS, Vite                         |
+| Dev Tools          | Git, GitHub, Linux, Docker                     |
 
-<p align="center">
-  <b>Open to opportunities, collaboration, and building useful software.</b>
-</p>
+---
+
+## 🏅 Learning & Recognition
+
+- Google Cloud Gen AI Academy — APAC Edition, Cohort 3.
+- Build with AI Bootcamp — Google Technologies.
+- Deloitte Australia — Technology Job Simulation.
+- DecodeLabs — Cloud Computing Internship.
+
+---
+
+## 🎯 What I'm Building Towards
+
+My long-term direction is **Production AI Engineering**, with a focus on:
+
+- Reliable Retrieval-Augmented Generation (RAG) systems.
+- Production-ready AI agents and orchestration.
+- Evaluation, observability and AI system reliability.
+- Secure backend and cloud architectures.
+- Scalable applications that solve practical problems.
+
+I believe building an AI prototype is only the starting point. Understanding its architecture, testing its behaviour, handling failures and making it reliable are equally important.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on AI engineering, open-source projects, cloud development and meaningful software solutions.
+
+\<p align="center">   \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">GitHub\</a> •   \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">LinkedIn\</a> \</p>
+
+\<div align="center">
+
+**Build. Test. Improve. Ship.**
+
+\</div>
