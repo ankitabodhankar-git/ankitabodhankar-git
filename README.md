@@ -1,4 +1,4 @@
-\<div align="center">
+
 
 # Hi, I'm Ankita Bodhankar 👋
 
@@ -6,7 +6,7 @@
 
 **Building practical AI applications, intelligent systems and cloud-powered solutions.**
 
-\<p>   \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a> \</p>
+\<p> \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)"> \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" /> \</a> \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" /> \</a> \<a href="mailto\:ankitabodhankar90\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)" /> \</a> \<a href="[https://discord.com/users/1541415321313738783](https://discord.com/users/1541415321313738783)"> \<img src="[https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge\&logo=discord)" /> \</a> \</p>
 
 \</div>
 
@@ -18,9 +18,9 @@ I'm a software developer focused on building AI-powered applications and cloud-b
 
 My work combines software development, Generative AI, agentic architectures, backend engineering and cloud technologies.
 
-I enjoy turning technical ideas into working applications, understanding system architecture, solving implementation challenges and improving how software behaves beyond the initial prototype.
+I enjoy turning technical ideas into working applications, understanding system architecture, solving implementation challenges and improving how software behaves beyond simply making it work.
 
-### What I Do
+### ⚡ What I Do
 
 - 🔎 **RAG & Knowledge Systems:** Working towards reliable retrieval-based AI applications.
 - 🤖 **AI Engineering:** Building applications with LLMs, Gemini and Generative AI.
@@ -32,7 +32,7 @@ I enjoy turning technical ideas into working applications, understanding system 
 
 ## 🚀 Featured Projects
 
-### 01. CivicLens AI — AI-Powered Civic Intelligence
+### 🏛️ 01. CivicLens AI — AI-Powered Civic Intelligence
 
 An AI-powered civic technology platform designed to transform citizen-reported problems into structured, actionable information for civic authorities.
 
@@ -50,12 +50,13 @@ An AI-powered civic technology platform designed to transform citizen-reported p
 
 `React` `TypeScript` `Vite` `Express` `Firebase Authentication` `Cloud Firestore` `Gemini API`
 
-[**View Source Code →**](https://github.com/ankitabodhankar-git/civiclens-ai)
-[**Live Prototype →**](https://civiclens-ai-1.ai.studio/)
+🔗 [View Source Code](https://github.com/ankitabodhankar-git/civiclens-ai)
+
+🔗 [Live Prototype](https://civiclens-ai-1.ai.studio/)
 
 ---
 
-### 02. ResiliNet AI — Graph-Powered Supply Chain Resilience
+### 🌐 02. ResiliNet AI — Graph-Powered Supply Chain Resilience
 
 A supply-chain resilience prototype developed for the WeMakeDevs × FalkorDB Graph Hacks hackathon.
 
@@ -73,8 +74,9 @@ The project explores how graph relationships can help identify supplier dependen
 
 `Python` `FalkorDB` `Cypher` `FastAPI` `Docker`
 
-[**View Source Code →**](https://github.com/ankitabodhankar-git/Resilinet-ai)
-[**Read Technical Article →**](https://medium.com/@ankitabodhankar90/resilinet-ai-exploring-graph-powered-supply-chain-resilience-with-falkordb-62528ebc8ff3)
+🔗 [View Source Code](https://github.com/ankitabodhankar-git/Resilinet-ai)
+
+🔗 [Read Technical Article](https://medium.com/@ankitabodhankar90/resilinet-ai-exploring-graph-powered-supply-chain-resilience-with-falkordb-62528ebc8ff3)
 
 ---
 
@@ -95,10 +97,10 @@ The project explores how graph relationships can help identify supplier dependen
 
 ## 🏅 Learning & Recognition
 
-- Google Cloud Gen AI Academy — APAC Edition, Cohort 3.
-- Build with AI Bootcamp — Google Technologies.
-- Deloitte Australia — Technology Job Simulation.
-- DecodeLabs — Cloud Computing Internship.
+- 🏆 Google Cloud Gen AI Academy — APAC Edition, Cohort 3.
+- ☁️ Build with AI Bootcamp — Google Technologies.
+- 💻 Deloitte Australia — Technology Job Simulation.
+- 🚀 DecodeLabs — Cloud Computing Internship.
 
 ---
 
@@ -120,10 +122,15 @@ I believe building an AI prototype is only the starting point. Understanding its
 
 I'm interested in collaborating on AI engineering, open-source projects, cloud development and meaningful software solutions.
 
-\<p align="center">   \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">GitHub\</a> •   \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">LinkedIn\</a> \</p>
-
 \<div align="center">
 
-**Build. Test. Improve. Ship.**
+\<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">GitHub\</a> •
+\<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">LinkedIn\</a> •
+\<a href="mailto\:ankitabodhankar90\@gmail.com">Email\</a> •
+\<a href="[https://discord.com/users/1541415321313738783](https://discord.com/users/1541415321313738783)">Discord\</a>
+
+\<br/>\<br/>
+
+### ✨ Build. Test. Improve. Ship.
 
 \</div>
