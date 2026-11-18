@@ -1,14 +1,13 @@
-
-
 # Hi, I'm Ankita Bodhankar 👋
 
 ### Software Developer + AI | Agentic AI | Cloud Engineering
 
 **Building practical AI applications, intelligent systems and cloud-powered solutions.**
 
-\<p> \<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)"> \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" /> \</a> \<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" /> \</a> \<a href="mailto\:ankitabodhankar90\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)" /> \</a> \<a href="[https://discord.com/users/1541415321313738783](https://discord.com/users/1541415321313738783)"> \<img src="[https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge\&logo=discord)" /> \</a> \</p>
-
-\</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ankitabodhankar-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ankitabodhankar90@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1541415321313738783)
 
 ---
 
@@ -122,15 +121,9 @@ I believe building an AI prototype is only the starting point. Understanding its
 
 I'm interested in collaborating on AI engineering, open-source projects, cloud development and meaningful software solutions.
 
-\<div align="center">
-
-\<a href="[https://github.com/ankitabodhankar-git](https://github.com/ankitabodhankar-git)">GitHub\</a> •
-\<a href="[https://www.linkedin.com/in/ankita-bodhankar-114b12396/](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)">LinkedIn\</a> •
-\<a href="mailto\:ankitabodhankar90\@gmail.com">Email\</a> •
-\<a href="[https://discord.com/users/1541415321313738783](https://discord.com/users/1541415321313738783)">Discord\</a>
-
-\<br/>\<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ankitabodhankar-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankita-bodhankar-114b12396/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:ankitabodhankar90@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord)](https://discord.com/users/1541415321313738783)
 
 ### ✨ Build. Test. Improve. Ship.
-
-\</div>
